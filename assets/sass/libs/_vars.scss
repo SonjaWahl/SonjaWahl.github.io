@@ -37,8 +37,8 @@
 		bg-alt:				#f5f6f7,
 		fg:					#7f888f,
 		fg-bold:			#3d4449,
-		fg-light:			#9fa3a6,
-		border:				rgba(210,215,217,0.75),
+		fg-light:			#9fa3a6, 
+		border:				#af0d84, // let's see if this works better rgba(210,215,217,0.75)
 		border-bg:			transparentize(#e6ebed, 0.75),
 		accent:				#0eafa4
 	);
